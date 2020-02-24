@@ -24,7 +24,7 @@
         "availableForReorder": "false",
         "lastOrderDate": "2020-01-01",
         "nextAvailabilityDate": "2020-09-01",
-        "quantity": "60"
+        "quantity": 60
       },
       {
         "productName": "DOME",
@@ -33,7 +33,7 @@
         "availableForReorder": "true",
         "lastOrderDate": "2019-06-30",
         "nextAvailabilityDate": "2019-12-15",
-        "quantity": "10",
+        "quantity": 10,
         "size": "6mm"
       },
       {
@@ -43,7 +43,7 @@
         "availableForReorder": "true",
         "lastOrderDate": "2019-06-30",
         "nextAvailabilityDate": "2019-12-15",
-        "quantity": "10",
+        "quantity": 10,
         "size": "7mm"
       },
       {
@@ -53,7 +53,7 @@
         "availableForReorder": "true",
         "lastOrderDate": "2019-06-30",
         "nextAvailabilityDate": "2019-12-15",
-        "quantity": "10"
+        "quantity": 10
       }
     ]
   }
